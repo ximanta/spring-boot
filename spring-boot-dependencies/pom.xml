@@ -90,7 +90,7 @@
 		<hsqldb.version>2.3.4</hsqldb.version>
 		<htmlunit.version>2.21</htmlunit.version>
 		<httpasyncclient.version>4.1.1</httpasyncclient.version>
-		<httpclient.version>4.5.2</httpclient.version>
+		<httpclient.version>4.5.3</httpclient.version>
 		<httpcore.version>4.4.5</httpcore.version>
 		<infinispan.version>8.2.2.Final</infinispan.version>
 		<jackson.version>2.7.4</jackson.version>
@@ -135,7 +135,7 @@
 		<reactor.version>2.0.8.RELEASE</reactor.version>
 		<reactor-spring.version>2.0.7.RELEASE</reactor-spring.version>
 		<selenium.version>2.53.0</selenium.version>
-		<sendgrid.version>2.2.2</sendgrid.version>
+		<sendgrid.version>3.0.0</sendgrid.version>
 		<servlet-api.version>3.1.0</servlet-api.version>
 		<simple-json.version>1.1.1</simple-json.version>
 		<slf4j.version>1.7.21</slf4j.version>
