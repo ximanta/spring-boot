@@ -80,7 +80,7 @@
 			<dependency>
 				<groupId>org.apache.maven</groupId>
 				<artifactId>maven-archiver</artifactId>
-				<version>2.6</version>
+				<version>3.4.0</version>
 			</dependency>
 			<dependency>
 				<groupId>org.apache.maven</groupId>
@@ -336,7 +336,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -355,7 +355,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -375,7 +375,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -396,7 +396,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -417,7 +417,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -438,7 +438,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
@@ -852,8 +852,8 @@
 										<requireJavaVersion>
 											<version>(1.8,1.9)</version>
 										</requireJavaVersion>
-										<requireReleaseDeps />
-										<requireReleaseVersion />
+										<requireReleaseDeps/>
+										<requireReleaseVersion/>
 									</rules>
 									<fail>true</fail>
 								</configuration>
@@ -881,8 +881,8 @@
 										<requireJavaVersion>
 											<version>(1.8,1.9)</version>
 										</requireJavaVersion>
-										<requireReleaseDeps />
-										<requireReleaseVersion />
+										<requireReleaseDeps/>
+										<requireReleaseVersion/>
 									</rules>
 									<fail>true</fail>
 								</configuration>
