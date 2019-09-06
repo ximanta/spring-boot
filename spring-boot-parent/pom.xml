@@ -23,7 +23,7 @@
 		<aether.version>1.0.2.v20150114</aether.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<maven.version>3.1.1</maven.version>
+		<maven.version>3.5.0</maven.version>
 	</properties>
 	<scm>
 		<url>http://github.com/spring-projects/spring-boot</url>
@@ -80,7 +80,7 @@
 			<dependency>
 				<groupId>org.apache.maven</groupId>
 				<artifactId>maven-archiver</artifactId>
-				<version>2.6</version>
+				<version>3.2.0</version>
 			</dependency>
 			<dependency>
 				<groupId>org.apache.maven</groupId>
@@ -115,12 +115,12 @@
 			<dependency>
 				<groupId>org.apache.maven.shared</groupId>
 				<artifactId>maven-common-artifact-filters</artifactId>
-				<version>1.4</version>
+				<version>3.0.0</version>
 			</dependency>
 			<dependency>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-shade-plugin</artifactId>
-				<version>2.2</version>
+				<version>3.0.0</version>
 			</dependency>
 			<dependency>
 				<groupId>org.apache.maven.plugin-tools</groupId>
@@ -130,7 +130,7 @@
 			<dependency>
 				<groupId>org.codehaus.plexus</groupId>
 				<artifactId>plexus-archiver</artifactId>
-				<version>2.8.1</version>
+				<version>3.5</version>
 			</dependency>
 			<dependency>
 				<groupId>org.codehaus.plexus</groupId>
@@ -140,7 +140,7 @@
 			<dependency>
 				<groupId>org.codehaus.plexus</groupId>
 				<artifactId>plexus-utils</artifactId>
-				<version>3.0.20</version>
+				<version>3.0.24</version>
 			</dependency>
 			<dependency>
 				<groupId>org.eclipse.aether</groupId>
@@ -336,7 +336,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -355,7 +355,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -375,7 +375,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -396,7 +396,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -417,7 +417,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -438,7 +438,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
@@ -852,8 +852,8 @@
 										<requireJavaVersion>
 											<version>(1.8,1.9)</version>
 										</requireJavaVersion>
-										<requireReleaseDeps />
-										<requireReleaseVersion />
+										<requireReleaseDeps/>
+										<requireReleaseVersion/>
 									</rules>
 									<fail>true</fail>
 								</configuration>
@@ -881,8 +881,8 @@
 										<requireJavaVersion>
 											<version>(1.8,1.9)</version>
 										</requireJavaVersion>
-										<requireReleaseDeps />
-										<requireReleaseVersion />
+										<requireReleaseDeps/>
+										<requireReleaseVersion/>
 									</rules>
 									<fail>true</fail>
 								</configuration>
