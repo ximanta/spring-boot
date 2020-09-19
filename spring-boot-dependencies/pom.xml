@@ -93,7 +93,7 @@
 		<httpclient.version>4.5.2</httpclient.version>
 		<httpcore.version>4.4.5</httpcore.version>
 		<infinispan.version>8.2.2.Final</infinispan.version>
-		<jackson.version>2.7.4</jackson.version>
+		<jackson.version>2.10.0</jackson.version>
 		<janino.version>2.7.8</janino.version>
 		<javassist.version>3.20.0-GA</javassist.version> <!-- Same as Hibernate -->
 		<javax-cache.version>1.0.0</javax-cache.version>
@@ -143,11 +143,11 @@
 		<solr.version>5.5.1</solr.version>
 		<spock.version>1.0-groovy-2.4</spock.version>
 		<spring.version>4.3.1.BUILD-SNAPSHOT</spring.version>
-		<spring-amqp.version>1.6.0.RELEASE</spring-amqp.version>
+		<spring-amqp.version>2.1.0.RELEASE</spring-amqp.version>
 		<spring-cloud-connectors.version>1.2.2.RELEASE</spring-cloud-connectors.version>
 		<spring-batch.version>3.0.7.RELEASE</spring-batch.version>
 		<spring-data-releasetrain.version>Hopper-SR2</spring-data-releasetrain.version>
-		<spring-hateoas.version>0.20.0.RELEASE</spring-hateoas.version>
+		<spring-hateoas.version>1.1.1.RELEASE</spring-hateoas.version>
 		<spring-integration.version>4.3.0.RELEASE</spring-integration.version>
 		<spring-integration-java-dsl.version>1.1.2.RELEASE</spring-integration-java-dsl.version>
 		<spring-loaded.version>1.2.6.RELEASE</spring-loaded.version>
