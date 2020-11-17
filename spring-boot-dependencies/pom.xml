@@ -93,7 +93,7 @@
 		<httpclient.version>4.5.2</httpclient.version>
 		<httpcore.version>4.4.5</httpcore.version>
 		<infinispan.version>8.2.2.Final</infinispan.version>
-		<jackson.version>2.7.4</jackson.version>
+		<jackson.version>2.7.9.5</jackson.version>
 		<janino.version>2.7.8</janino.version>
 		<javassist.version>3.20.0-GA</javassist.version> <!-- Same as Hibernate -->
 		<javax-cache.version>1.0.0</javax-cache.version>
@@ -130,7 +130,7 @@
 		<mysql.version>5.1.39</mysql.version>
 		<narayana.version>5.3.2.Final</narayana.version>
 		<nekohtml.version>1.9.22</nekohtml.version>
-		<neo4j-ogm.version>2.0.2</neo4j-ogm.version>
+		<neo4j-ogm.version>3.1.11</neo4j-ogm.version>
 		<postgresql.version>9.4.1208.jre7</postgresql.version>
 		<reactor.version>2.0.8.RELEASE</reactor.version>
 		<reactor-spring.version>2.0.7.RELEASE</reactor-spring.version>
